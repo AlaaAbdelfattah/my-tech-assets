@@ -1,0 +1,58 @@
+DevOps Track
+	-	Learn the basics of DevOps, Networking and Application
+		-	Linux 
+		-	Network 
+		-	Application Basics
+			-	Python 
+			-	Java
+			-	Node 
+		-	SCM:
+			-	Git
+		-	Web servers
+			-	Apache Web Serve
+			-	Apache Tomcat
+			-	Deployment
+		-	Database Basics
+			-	MySql
+			-	SQL server
+			-	MongoDB 
+		-	Security 
+			-	SSL & TLS Basics 
+		-	File Formats
+			-	YAML 
+			-	JSON
+			
+	-	Learn Programming and Scripting
+		-	Golang 
+		-	Python Basics
+		-	Shell Scripting
+		
+	-	Learn Version Control(SCM)
+		-	Git
+		-	Github
+		
+	-	Learn CI/CD Concepts
+		-	Jenkins & Pipelines
+		-	Azure DevOps
+		-	Github Actions
+		
+	-	Learn Container Concepts
+		-	 Docker 
+		
+	-	Learn Container Orchestration
+		-	Kubernetes 
+			-	Development 
+			-	Administration 
+			
+	-	Learn Automation
+		-	Ansible
+		
+	-	Master Infrastructure as Code Concepts
+		-	Terraform 
+		
+	-	Master Observability and Monitoring
+		-	Prometheus Certified Associate (PCA)
+		-	Grafana Loki
+	
+
+		
