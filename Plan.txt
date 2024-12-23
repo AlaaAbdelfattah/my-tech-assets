@@ -1,0 +1,61 @@
+	-	Learn the basics of DevOps, Networking and Application
+		-	Linux
+			-	https://www.dolfined.com/courses/take/linux-mastery-for-absolute-beginners-1/lessons/43165890-a-message-from-the-instructor 
+		-	Network
+			-	
+		-	Application Basics
+			-	Python 
+			-	Java
+			-	Node 
+		-	SCM:
+			-	Git
+		-	Web servers
+			-	Apache Web Serve
+			-	Apache Tomcat
+			-	Deployment
+		-	Database Basics
+			-	MySql
+			-	SQL server
+			-	MongoDB 
+		-	Security 
+			-	SSL & TLS Basics 
+		-	File Formats(Covered)
+			-	YAML 
+			-	JSON
+			
+	-	Learn Programming  and Scripting
+		-	Python Basics
+		-	Golang 
+		-	Shell Scripting
+
+	-	Learn Version Control(SCM)
+		-	Git
+		-	Github
+			-	https://www.udemy.com/course/master-git-github-essential-skills-for-developersarabic/learn/lecture/43880354#overview
+
+	-	Learn CI/CD Concepts
+		-	Jenkins & Pipelines
+			-	https://www.dolfined.com/courses/take/arabic-jenkins-git-hub-actions/lessons/42112253-ci-cd-tools-overview
+		-	Azure DevOps
+		-	Github Actions
+
+	-	Learn Container Concepts
+		-	 Docker
+			-	https://www.dolfined.com/courses/take/Docker-mastery-arabic/lessons/37751626-a-message-from-your-instructor 
+
+	-	Learn Container Orchestration
+		-	Kubernetes 
+			-	Development
+				-	https://www.dolfined.com/courses/take/arabic-kubernetes-masteryt/lessons/46631912-resource-requirements-and-limits
+			-	Administration
+				-	https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14937784?start=1#overview
+
+	-	Learn Automation
+		-	Ansible
+
+	-	Master Infrastructure as Code Concepts
+		-	Terraform 
+
+	-	Master Observability and Monitoring
+		-	Prometheus Certified Associate (PCA)
+		-	Grafana Loki
